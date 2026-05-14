@@ -7,7 +7,6 @@ package com.example.namma_platform
 
 
 
-
 import android.graphics.Color
 import android.os.Bundle
 import android.speech.tts.TextToSpeech
