@@ -2,6 +2,12 @@
 Namma-Platform: A Kannada-first railway assistant for rural passengers. Features include a high-contrast coach layout and Kannada audio announcements.
 package com.example.namma_platform
 
+
+
+
+
+
+
 import android.graphics.Color
 import android.os.Bundle
 import android.speech.tts.TextToSpeech
